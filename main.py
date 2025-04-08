@@ -39,7 +39,7 @@ def copy_files():
         destination_folder = os.path.dirname(fullpath)  
         folders = destination_folder.split('/')
         # Join the remaining folders starting from the second element
-        destination_folder = os.path.join(*folders[1:])
+        destination_folder = os.path.join(folders[0], *folders[1:]) # destination_folder = os.path.join(*folders[1:])
 
         if not os.path.exists(destination_folder):
             os.makedirs(destination_folder)
