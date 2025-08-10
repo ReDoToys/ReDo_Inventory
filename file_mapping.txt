@@ -1,3 +1,5 @@
+Sets/Formula1_S30/Formula1_S30_Back.stl
+Sets/Formula1_S30/Formula1_S30_Front.stl
 Robotics/Module/Module_20x20x10_1x4pin.stl
 Robotics/Module/Module_20x20x10_2x4pin.stl
 Robotics/Module/Module_30x20x10_1x4pin.stl
@@ -89,6 +91,7 @@ Construction/Corner/Corner_L_30x10x10_C.stl
 Construction/Corner/Corner_U_10x20x10_A.stl
 Construction/Corner/Corner_U_10x20x20_C.stl
 Construction/Block/Block_10x10x10_A.stl
+Construction/Block/Block_10x10x70_A.stl
 Construction/Block/Block_20x10x10_B.stl
 Construction/Block/Block_20x10x10_C.stl
 Construction/Block/Block_20x10x10_D.stl
